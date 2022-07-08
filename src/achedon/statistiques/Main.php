@@ -3,7 +3,7 @@
 namespace achedon\statistiques;
 
 use achedon\statistiques\commands\AdminStats;
-use achedon\statistiques\commands\stats;
+use achedon\statistiques\commands\Stats;
 use achedon\statistiques\commands\TopDeath;
 use achedon\statistiques\commands\TopKill;
 use achedon\statistiques\events\playerEvents;
